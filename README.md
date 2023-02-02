@@ -2,7 +2,7 @@
 
 Documentation and community resources
 
-## Tabla de contenidos
+## Table of Contents
 
 - [What is H/F?](#what-is-hf)
 - [H/F culture](#hf-culture)
