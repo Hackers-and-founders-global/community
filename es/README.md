@@ -4,7 +4,7 @@ Documentación y lineamientos de la comunidad H/F Maracay
 
 ## Tabla de contenidos
 
-- [¿Qué es H/F Maracay?](#qué-es-hf-maracay)
+- [¿Qué es H/F?](#qué-es-hf)
 - [Cultura de H/F](#cultura-de-hf)
 - [Nuestro Enfoque](#nuestro-enfoque)
 - [¿A quiénes busca H/F?](#a-quiénes-busca-hf)
@@ -12,15 +12,11 @@ Documentación y lineamientos de la comunidad H/F Maracay
 - [Miembros](#miembros)
 - [Medios de Contacto](#medios-de-contacto)
 
-## ¿Qué es H/F Maracay?
+## ¿Qué es H/F?
 
 Hackers/Founders [H/F] es la comunidad tecnológica más grande del mundo, con más de 300.000 miembros en más de 142 ciudades en 49 países alrededor del mundo. Formado por emprendedores, H/F da cabida a programadores, desarrolladores de tecnología, emprendedores y todos aquellos amantes de las tecnologías que buscan emprender un proyecto y no saben por dónde empezar.
 
 **Somos una comunidad donde todos pueden sentirse bienvenidos.**
-
-En febrero de 2016 nace **el capítulo Maracay de Hackers/Founders [H/F Maracay]**, siendo el primer capítulo creado en nuestro país. Sus fundadores [Rafael Hernández (rafaelje)](https://github.com/rafaelje) y [Héctor Rondón (hectorerb)](https://github.com/hectorerb), posicionaron de esta manera a Venezuela dentro de esta comunidad global.
-
-Nuestros meetups son reuniones de panas, donde conversamos de temas tecnológicos y de emprendimiento junto a algunas cervezas, para mantener la tradición de los fundadores originales, pero al mejor estilo venezolano; estas reuniones son realizadas una vez al mes, cada segundo jueves a partir de las 5:00pm.
 
 ## Cultura de H/F
 
@@ -69,10 +65,9 @@ Ayudamos a que el emprendimiento duela menos. Dinos qué necesitas y estaremos e
 
 ## Medios de Contacto
 
-- Teléfono: (0424) 317.21.26
-- Email: <hfmaracay@gmail.com>
-- Sitio Web: [hfmaracay.com](https://hfmaracay.com)
-- Facebook: [/HFMaracay](https://facebook.com/hfmaracay)
-- Twitter: [@HFMaracay](https://twitter.com/hfmaracay)
-- Instagram: [HFMaracay](https://instagram.com/hfmaracay)
-- Telegram: [HFMaracay](https://t.me/hfmaracay)
+- Email: <j@hf.cx>
+- Website: [hf.cx](https://hf.cx)
+- Facebook: [/hackersandfounders](https://www.facebook.com/hackersandfounders)
+- Twitter: [@HackFoundSV](https://twitter.com/HackFoundSV)
+- Instagram: [hackersfounders](https://www.instagram.com/hackersfounders/)
+- LinkedIn: [hackers-founders](https://www.linkedin.com/company/hackers-founders/)
